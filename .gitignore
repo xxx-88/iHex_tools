@@ -1,0 +1,26 @@
+!.gitignore
+
+# Build files
+*.scvd
+*.lst
+*.map
+*.bin
+*.elf
+*.o
+*.obj
+*.d
+*.crf
+*.build_log
+*.html
+*.htm
+*.iex
+*.hex
+*.lnp
+*.dep
+*.bak
+*.*@*
+*.user
+
+Debug/
+x64/
+.vs/
